@@ -23,12 +23,11 @@ A web application that analyzes GitHub profiles and visualizes user activity, in
    cd github-profile-analyzer
    ```
 
-2.Install dependencies:
-
-```bash
-npm install
-```
-3.Run the development server:
-```bash
-npm run dev
-```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Run the development server:
+   ```bash
+   npm run dev
+   ```
